@@ -33,6 +33,7 @@ function sumArray(array)
 {
     var sum = 0,i;
     var l = array.length;
+    
     for(i=0; i<l; i++){
         sum += array[i]; 
     }
